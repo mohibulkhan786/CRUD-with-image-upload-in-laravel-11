@@ -270,7 +270,7 @@ Route::resource('products', ProductController::class);
 
 - ✅ Step 5, In the last step, we have to create blade files. So mainly, we have to create a layout file and then create a new folder "products", then create blade files of the CRUD app. So finally, you have to create the following blade files:
 
-- 1) layout.blade.php 2) index.blade.php 3) create.blade.php 4) edit.blade.php 5) show.blade.php
+- 1==>layout.blade.php 2==>index.blade.php 3==>create.blade.php 4==>edit.blade.php 5==>show.blade.php
 
 - resources/views/products/layout.blade.php
 
