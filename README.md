@@ -124,7 +124,7 @@ php artisan migrate
 ````
 
 - In this controller will create seven methods by default as bellow methods:
-- 1) index()  2)create()  3)store()  4)show()  5)edit()  6)update()  7)destroy()
+- 1==>index()  2==>create()  3==>store()  4==>show()  5==>edit()  6==>update()  7==>destroy()
 - So, let's copy bellow code and put on ProductController.php file.
 - app/Http/Controllers/ProductController.php
 
